@@ -8,4 +8,3 @@ Weather Today is a web application that provides the current weather forecast fo
 - CSS: Used for styling the web page, including colors, fonts, and animations.
 - JavaScript: Used for fetching data from the API, manipulating the DOM, and adding interactivity.
 - Bootstrap: Used as a CSS framework to enhance the responsiveness and styling of the web page.
-- jQuery: Used for simplifying DOM manipulation and making AJAX requests to the API.
